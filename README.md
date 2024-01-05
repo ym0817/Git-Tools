@@ -14,6 +14,7 @@ ym817->Settings->SSH keys and GPG keys -> New SSH Key -> Add new SSH Key
 5 获取Token
 ym817->Settings-> Developer Settings -> Personal access tokens (classic) -> Genrate new tokens (classic) - > 赋值token并保存，后面git push 代码时输入密码时需要（切记保存））
 
+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
 
 6  新建一个repository
 
